@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "portfolio web 2",
+			"path": "."
+		},
+		{
+			"name": "pics",
+			"path": "../pics"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio web 2",
+		"liveServer.settings.port": 5501
+	}
+}
